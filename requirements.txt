@@ -1,1 +1,7 @@
+numpy
 pandas
+sklearn
+tensorflow
+keras
+py3langid
+langdetect
